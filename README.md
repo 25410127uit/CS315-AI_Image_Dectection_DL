@@ -19,4 +19,4 @@ Dự án phát hiện ảnh do AI tạo ra (AI-generated image detection), so s�
     └── ensemble/
 ```
 
-
+link: https://drive.google.com/drive/u/2/folders/1c8dkMTlB3cgPuAulHESLWl5_eRjF0ykn
