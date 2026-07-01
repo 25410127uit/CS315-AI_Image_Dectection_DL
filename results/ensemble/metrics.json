@@ -1,0 +1,21 @@
+{
+  "model": "Ensemble ResNet50 + FFT-XGBoost",
+  "w_resnet": 0.5,
+  "accuracy": 0.97,
+  "precision": 1.0,
+  "recall": 0.97,
+  "f1": 0.9847715736040609,
+  "roc_auc": NaN,
+  "confusion_matrix": [
+    [
+      0,
+      0
+    ],
+    [
+      300,
+      9700
+    ]
+  ],
+  "n_test": 10000,
+  "alignment_warning": true
+}
