@@ -1,6 +1,12 @@
 # AI Image Detection - Nhóm 3T
 
-Dự án phát hiện ảnh do AI tạo ra (AI-generated image detection), so sánh nhiều mô hình: EfficientNet, ResNet50, ViT-B/16, SVM, XGBoost, và mô hình Ensemble.
+Project AI-generated image detection
+    so sánh nhiều mô hình: EfficientNet, 
+                           ResNet50,
+                           ViT-B/16, 
+                           SVM, 
+                           XGBoost,
+                           và mô hình Ensemble.
 
 ## Cấu trúc thư mục
 
