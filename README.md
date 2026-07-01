@@ -1,7 +1,8 @@
 # AI Image Detection - Nhóm 3T
 
 Project AI-generated image detection
-    so sánh nhiều mô hình: EfficientNet, 
+
+         so sánh nhiều mô hình: EfficientNet, 
                            ResNet50,
                            ViT-B/16, 
                            SVM, 
